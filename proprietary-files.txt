@@ -196,6 +196,11 @@ vendor/lib/libmmcamera_ubifocus_lib.so
 vendor/lib/libmmcamera_stillmore_lib.so
 vendor/lib/libmmcamera_optizoom_lib.so
 vendor/lib/libmmcamera_llvd.so
+vendor/lib/libmmcamera_ppeiscore.so
+vendor/lib/libmmcamera_paaf_lib.so
+vendor/lib/libllvd_smore.so
+vendor/lib/libmmcamera_quadracfa.so
+
 
 vendor/lib/libmmcamera2_mct.so
 vendor/lib/libmmcamera2_stats_modules.so
